@@ -1,0 +1,13 @@
+{
+  "appTitle": "TryOut",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "menuHome": "Home",
+  "menuProfile": "Profile",
+  "menuSettings": "Settings",
+  "menuAboutUs":"About Us",
+  "menuContactUs":"Contact Us",
+  "menuLogout":"Logout",
+  "menuNotifications":"Notifications" 
+}

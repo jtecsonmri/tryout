@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "443205774266",
+    "project_id": "tryout-33f4b",
+    "storage_bucket": "tryout-33f4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443205774266:android:331c4f7011efc322120b83",
+        "android_client_info": {
+          "package_name": "com.ihealthconnected.tryout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443205774266-16dc4gkvso2b78rufsdar5l50s3momrh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ihealthconnected.tryout",
+            "certificate_hash": "0fb26ad234a2059c2713223cd91e44f42dfb8c52"
+          }
+        },
+        {
+          "client_id": "443205774266-4oseboglgsmbopkoprst1kjgln1eglm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD49s2AOmN5s8SNHeZ3L6bQF5QNBijYDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443205774266-4oseboglgsmbopkoprst1kjgln1eglm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
